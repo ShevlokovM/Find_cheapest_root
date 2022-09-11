@@ -34,5 +34,6 @@ $RECYCLE.BIN/
 # Build results
 build/
 Debug/
+*debug*
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
